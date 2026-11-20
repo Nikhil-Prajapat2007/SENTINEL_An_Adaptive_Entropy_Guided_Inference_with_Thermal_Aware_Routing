@@ -1,0 +1,1 @@
+# SENTINEL_An_Adaptive_Entropy_Guided_Inference_with_Thermal_Aware_Routing
